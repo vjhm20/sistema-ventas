@@ -1,0 +1,6 @@
+D:\C#\DESARROLLO DE SOFTWARE I\ProyectoParcial\AppVentas\CapaDatos\bin\Debug\CapaDatos.dll
+D:\C#\DESARROLLO DE SOFTWARE I\ProyectoParcial\AppVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\C#\DESARROLLO DE SOFTWARE I\ProyectoParcial\AppVentas\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\C#\DESARROLLO DE SOFTWARE I\ProyectoParcial\AppVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\C#\DESARROLLO DE SOFTWARE I\ProyectoParcial\AppVentas\CapaDatos\obj\Debug\CapaDatos.dll
+D:\C#\DESARROLLO DE SOFTWARE I\ProyectoParcial\AppVentas\CapaDatos\obj\Debug\CapaDatos.pdb
